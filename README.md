@@ -1,1 +1,1 @@
-# React projects 
+#30 days of javascript projects 
